@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
- mnau mnau 
+ 
 This is a minimal [Learn-Jekyll.js](https://github.com/jan-martinek/learn-jekyll) website.
 
 It is not meant to replace Jekyll — it just mimics some of its functionality. It might be useful for those who do not want to install Ruby & Jekyll on their computer.
